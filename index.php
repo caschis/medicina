@@ -1,29 +1,81 @@
 <?
     require 'includes/general_functions.php';
-    menu('test');
+    menu('');
     ?>
 
-            <!--// Hero Section Start //-->
-            <section class="hero-section" data-bg-image-path="img/bg/eye_bg.png" data-scroll-index="0">
-                <div id="heroparticles"></div>
-                <div class="container hero-inner h-100">
-                    <div class="row h-100">
-                        <div class="col-md-10 col-lg-7 col-xl-6 h-100">
-                            <h1 class="hero-title">
-                                We do our job safely and carefully
-                            </h1>
-                            <p class="hero-subtitle">
-                                It is a long established fact that a reader will be distracted by the readable content..
-                            </p>
-                            <div class="hero-btn">
-                                <a href="index-particles.html#" class="primary-button">Get Started<i class="fa fa-arrow-right"></i></a>
-                                <a href="index-particles.html#" class="outline-button">Read More<i class="fa fa-arrow-right"></i></a>
-                            </div>
+<!-- modern slider start -->
+
+
+
+
+ <!--// Hero Slider Start //-->
+ <section id="hero-slider-two"  data-scroll-index="0">
+    <div class="owl-carousel owl-theme hero-slider" id="heroCarousel">
+        <div class="item" data-bg-image-path="img/bg/eye_bg.png">
+            
+            <div class="container hero-inner h-100">
+                <div class="row h-100">
+                    <div class="col-md-10 col-lg-7 col-xl-6 h-100">
+                        <h1 class="hero-title">
+                            We do our job safely and carefully
+                        </h1>
+                        <p class="hero-subtitle">
+                            It is a long established fact that a reader will be distracted by the readable content..
+                        </p>
+                        <div class="hero-btn">
+                            <a href="index-slider.html#" class="primary-button">Get Started<i class="fa fa-arrow-right" style="z-index: 111!important;"></i></a>
+                            <a href="index-slider.html#" class="outline-button">Read More<i class="fa fa-arrow-right"></i></a>
                         </div>
                     </div>
                 </div>
-            </section>       
-            <!--// Hero Section End //-->
+            </div>
+        </div>
+        <div class="item" data-bg-image-path="img/bg/slider-2.jpg">
+            <div class="container hero-inner h-100">
+                <div class="row h-100">
+                    <div class="col-md-10 col-lg-7 col-xl-6 h-100">
+                        <h1 class="hero-title">
+                            We build with the masters
+                        </h1>
+                        <p class="hero-subtitle">
+                            It is a long established fact that a reader will be distracted by the readable content..
+                        </p>
+                        <div class="hero-btn">
+                            <a href="index-slider.html#" class="primary-button">Get Started<i class="fa fa-arrow-right"></i></a>
+                            <a href="index-slider.html#" class="outline-button">Read More<i class="fa fa-arrow-right"></i></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="item" data-bg-image-path="img/bg/slider-3.jpg">
+            <div class="container hero-inner h-100">
+                <div class="row h-100">
+                    <div class="col-md-10 col-lg-7 col-xl-6 h-100">
+                        <h1 class="hero-title">
+                            We doubled the earnings in trade
+                        </h1>
+                        <p class="hero-subtitle">
+                            It is a long established fact that a reader will be distracted by the readable content..
+                        </p>
+                        <div class="hero-btn">
+                            <a href="index-slider.html#" class="primary-button">Get Started<i class="fa fa-arrow-right"></i></a>
+                            <a href="index-slider.html#" class="outline-button">Read More<i class="fa fa-arrow-right"></i></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>       
+<!--// Hero Slider End //-->
+
+
+
+<!-- modern slider end -->
+
+
+        
 
             <!--// About Section Start //-->
             <section class="section" id="about">
