@@ -10,14 +10,16 @@
                     <div class="row h-100">
                         <div class="col-md-10 col-lg-7 col-xl-6 h-100">
                             <h1 class="hero-title">
-                                We do our job safely and carefully
+                               PROMED C.M.S 
+                               Centrul medical multispecializat.
+
                             </h1>
                             <p class="hero-subtitle">
-                                It is a long established fact that a reader will be distracted by the readable content..
+                                Centrul medical multispecializat.
                             </p>
                             <div class="hero-btn">
-                                <a href="index-particles.html#" class="primary-button">Get Started<i class="fa fa-arrow-right"></i></a>
-                                <a href="index-particles.html#" class="outline-button">Read More<i class="fa fa-arrow-right"></i></a>
+                                <a href="index-particles.html#" class="primary-button">Progreamează-te<i class="fa fa-arrow-right"></i></a>
+                                <a href="index-particles.html#" class="outline-button">Despre noi!<i class="fa fa-arrow-right"></i></a>
                             </div>
                         </div>
                     </div>
@@ -31,7 +33,7 @@
                     <div class="row">
                         <div class="col-lg-6">
                             <div class="about-img-wrap">
-                                <img src="img/bg/about-img.jpg" alt="About image" class="img-fluid" />
+                                <img src="img/poza-.jpg" alt="About image" class="img-fluid" />
                                 <div class="about-video">
                                     <a class="about-video-btn popup-video-btn" href="https://www.youtube.com/watch?v=YqQx75OPRa0"><i class="fa fa-play"></i></a>
                                 </div>
@@ -39,33 +41,51 @@
                         </div>
                         <div class="col-lg-6 about-inner">
                             <div class="about-text">
-                                <h6>Get to know our company</h6>
-                                <h4>We have been trying to be the same <span>quality</span> for years</h4>
+                                <h6>Cunoaște-ne!</h6>
+                                <h4>15 ani de experiență, echipament performant, investigații cu precizie.</h4>
                                 <p>
-                                    In addition to our experience in many years of work, we also received the opinions of our customers And one of the biggest advantages we have come to today is our trust in our customers.
+                                Așteptăm micii pacienți la specialiști pentru ai pregăti de școală sau  gradiniță!
                                 </p>
                             </div>
                             <ul>
                                 <li>
                                     <i class="fas fa-industry"></i>
                                     <div class="text">
-                                        <h6>Our Vision</h6>
-                                        <p>
+                                        <h6>Neuropediatru</h6>
+                                        <!-- <p>
                                             For years, we have grown this company's businesses, not as a legacy from father to son, but by fully caring.
-                                        </p>
+                                        </p> -->
                                     </div>
                                 </li>
                                 <li>
                                     <i class="fas fa-business-time"></i>
                                     <div class="text">
-                                        <h6>Our Mission</h6>
-                                        <p>
+                                        <h6>Oftalmolog</h6>
+                                        <!-- <p>
                                             To provide a safe and clean business to our customers and to keep the quality at the highest level
-                                        </p>
+                                        </p> -->
+                                    </div>
+                                </li>
+                                <li>
+                                    <i class="fas fa-business-time"></i>
+                                    <div class="text">
+                                        <h6>ORL</h6>
+                                        <!-- <p>
+                                            To provide a safe and clean business to our customers and to keep the quality at the highest level
+                                        </p> -->
+                                    </div>
+                                </li>
+                                <li>
+                                    <i class="fas fa-business-time"></i>
+                                    <div class="text">
+                                        <h6>Ortoped/chirurg</h6>
+                                        <!-- <p>
+                                            To provide a safe and clean business to our customers and to keep the quality at the highest level
+                                        </p> -->
                                     </div>
                                 </li>
                             </ul>
-                            <a href="index-particles.html#" class="primary-button">Read More<i class="fa fa-arrow-right"></i></a>
+                            <a href="index-particles.html#" class="primary-button">Programează-te<i class="fa fa-arrow-right"></i></a>
                         </div>
                     </div>
                 </div>
@@ -78,7 +98,7 @@
                     <div class="row justify-content-center">
                         <div class="col-lg-6">
                             <div class="section-heading">
-                                <h2 class="section-title">Our<span>Services</span></h2>
+                                <h2 class="section-title">Serviciile<span>noastre</span></h2>
                                 <p class="section-text">
                                     It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.
                                 </p>
