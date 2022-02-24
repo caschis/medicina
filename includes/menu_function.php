@@ -28,7 +28,16 @@ function menu($title){
         <link rel="stylesheet" href="css/style.css" />
         <!--// Theme Color Css //-->
         <link rel="stylesheet" href="css/skins/default-color.css" id="theme-color-toggle" />
-        <title>Anaula - Construction Template</title>
+        <title>
+            <?
+            if($title == ''){
+                $title = 'ProMed.MD - Centrul Medical multispecializat';
+            }else{
+                $title = 'ProMed.MD - ' . $title;
+            }
+            echo $title;
+            ?>
+        </title>
     </head>
     <body>
         <!--// Page Wrapper Start //-->
@@ -41,14 +50,22 @@ function menu($title){
                             <div class="col-lg-8 nav-info-wrap">
                                 <div class="nav-info-box">
                                     <i class="fa fa-envelope"></i>
-                                    <a href="https://aipthemes.com/cdn-cgi/l/email-protection#75141b140019141a13131c1610351218141c195b161a18">
-                                        <span><span class="__cf_email__" data-cfemail="a7c6c9c6d2cbc6c8c1c1cec4c2e7c0cac6cecb89c4c8ca">[email&#160;protected]</span></span>
+                                    <a href="">
+                                        <span>info@pro-med.md</span>
                                     </a>
                                 </div>
                                 <div class="nav-info-box">
-                                    <i class="fa fa-map-marker"></i>
-                                    <span>1627 Travion Ct, Fairfield, CA, 94533</span>
+                                <i class="fa fa-phone"></i>
+                                    <a href="tel:+37379990382">
+                                        <span>+373 799 90 382</span>
+                                    </a>
                                 </div>
+                                <div class="nav-info-box">
+                                    <i class="fa fa-phone"></i>
+                                        <a href="tel:+37322719252">
+                                            <span>022 71 92 52</span>
+                                        </a>
+                                    </div>
                             </div>
                             <div class="col-md-4 nav-social-links">
                                 <a href="index-particles.html#"><i class="fab fa-facebook-f"></i></a>
