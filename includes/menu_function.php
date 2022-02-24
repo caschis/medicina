@@ -80,7 +80,7 @@ function menu($title){
                     <div class="container">
                         <nav class="navbar bg-white navbar-expand-lg p-0">
                             <a class="navbar-brand" href="index.html">
-                                <img src="img/bg/logo_black.png" alt="Logo White" class="img-fluid" />
+                                <img src="/img/general/header_logo.png" alt="Logo White" class="img-fluid" />
                             </a>
                             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#fixedNavbar" aria-controls="fixedNavbar" aria-expanded="false" aria-label="Toggle navigation">
                                 <span class="togler-icon-inner">
