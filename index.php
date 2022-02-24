@@ -3,26 +3,6 @@
     menu('');
     ?>
 
-<<<<<<< HEAD
-            <!--// Hero Section Start //-->
-            <section class="hero-section" data-bg-image-path="img/bg/eye_bg.png" data-scroll-index="0">
-                <div id="heroparticles"></div>
-                <div class="container hero-inner h-100">
-                    <div class="row h-100">
-                        <div class="col-md-10 col-lg-7 col-xl-6 h-100">
-                            <h1 class="hero-title">
-                               PROMED C.M.S 
-                               Centrul medical multispecializat.
-
-                            </h1>
-                            <p class="hero-subtitle">
-                                Centrul medical multispecializat.
-                            </p>
-                            <div class="hero-btn">
-                                <a href="index-particles.html#" class="primary-button">Progreamează-te<i class="fa fa-arrow-right"></i></a>
-                                <a href="index-particles.html#" class="outline-button">Despre noi!<i class="fa fa-arrow-right"></i></a>
-                            </div>
-=======
 <!-- modern slider start -->
 
 
@@ -81,7 +61,7 @@
                         <div class="hero-btn">
                             <a href="index-slider.html#" class="primary-button">Get Started<i class="fa fa-arrow-right"></i></a>
                             <a href="index-slider.html#" class="outline-button">Read More<i class="fa fa-arrow-right"></i></a>
->>>>>>> f1127e90f696a433368956c8955c8094f2499709
+
                         </div>
                     </div>
                 </div>
