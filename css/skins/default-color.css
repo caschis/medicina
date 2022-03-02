@@ -42,11 +42,11 @@
 }
 
 .primary-button {
-  background: #9ec8ec;
+  background: #0e4574;
 }
 
 .outline-button:hover {
-  color: #9ec8ec !important;
+  color: #0f4b77 !important;
 }
 
 .default-button {

@@ -11,17 +11,33 @@
  <!--// Hero Slider Start //-->
  <section id="hero-slider-two"  data-scroll-index="0">
     <div class="owl-carousel owl-theme hero-slider" id="heroCarousel">
-        <div class="item" data-bg-image-path="img/bg/eye_bg.png">
+
+        <div class="item" data-bg-image-path="img/bg/doctor2.jpg">
+            <div class="container hero-inner h-100">
+                <div class="row h-100">
+                    <div class="col-md-10 col-lg-7 col-xl-6 h-100">
+                        <h1 class="hero-title">
+                            Doctor Oftalmolog
+                        </h1>
+                        <p class="hero-subtitle">
+                            ..Vezi viața cu ochi buni!
+                        </p>
+                        <div class="hero-btn">
+                            <a href="index-slider.html#" class="primary-button">Get Started<i class="fa fa-arrow-right"></i></a>
+                            <a href="index-slider.html#" class="outline-button">Read More<i class="fa fa-arrow-right"></i></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="item" data-bg-image-path="img/bg/girl.jpg">
             
             <div class="container hero-inner h-100">
                 <div class="row h-100">
                     <div class="col-md-10 col-lg-7 col-xl-6 h-100">
                         <h1 class="hero-title">
-                            We do our job safely and carefully
+                            Sănătatea ochilor dumneavoastră este prioritatea noastra
                         </h1>
-                        <p class="hero-subtitle">
-                            It is a long established fact that a reader will be distracted by the readable content..
-                        </p>
                         <div class="hero-btn">
                             <a href="index-slider.html#" class="primary-button">Get Started<i class="fa fa-arrow-right" style="z-index: 111!important;"></i></a>
                             <a href="index-slider.html#" class="outline-button">Read More<i class="fa fa-arrow-right"></i></a>
@@ -30,43 +46,8 @@
                 </div>
             </div>
         </div>
-        <div class="item" data-bg-image-path="img/bg/slider-2.jpg">
-            <div class="container hero-inner h-100">
-                <div class="row h-100">
-                    <div class="col-md-10 col-lg-7 col-xl-6 h-100">
-                        <h1 class="hero-title">
-                            We build with the masters
-                        </h1>
-                        <p class="hero-subtitle">
-                            It is a long established fact that a reader will be distracted by the readable content..
-                        </p>
-                        <div class="hero-btn">
-                            <a href="index-slider.html#" class="primary-button">Get Started<i class="fa fa-arrow-right"></i></a>
-                            <a href="index-slider.html#" class="outline-button">Read More<i class="fa fa-arrow-right"></i></a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="item" data-bg-image-path="img/bg/slider-3.jpg">
-            <div class="container hero-inner h-100">
-                <div class="row h-100">
-                    <div class="col-md-10 col-lg-7 col-xl-6 h-100">
-                        <h1 class="hero-title">
-                            We doubled the earnings in trade
-                        </h1>
-                        <p class="hero-subtitle">
-                            It is a long established fact that a reader will be distracted by the readable content..
-                        </p>
-                        <div class="hero-btn">
-                            <a href="index-slider.html#" class="primary-button">Get Started<i class="fa fa-arrow-right"></i></a>
-                            <a href="index-slider.html#" class="outline-button">Read More<i class="fa fa-arrow-right"></i></a>
 
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
+       
     </div>
 </section>       
 <!--// Hero Slider End //-->

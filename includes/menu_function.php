@@ -92,65 +92,17 @@ function menu($title){
                             <button class="search-btn-mobile" data-toggle="modal" data-target="#headerSearchBar"><i class="fa fa-search"></i></button>
                             <div class="collapse navbar-collapse main-menu justify-content-end" id="fixedNavbar">
                                 <ul class="navbar-nav">
-                                    <li class="nav-item dropdown">
-                                        <a class="nav-link active dropdown-toggle" href="index-particles.html#" id="homeDropdownMenu" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                                            Home
-                                        </a>
-                                        <div class="dropdown-menu" aria-labelledby="homeDropdownMenu">
-                                            <a class="dropdown-item" href="index-default.html">Home Default</a>
-                                            <a class="dropdown-item" href="index-slider.html">Home Slider</a>
-                                            <a class="dropdown-item" href="index-particles.html">Home Particles</a>
-                                            <a class="dropdown-item" href="index-video.html">Home Video</a>
-                                        </div>
-                                    </li>
-                                    <li class="nav-item dropdown">
-                                        <a class="nav-link dropdown-toggle" href="index-particles.html#" id="pagesDropdownMenu" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                                            Pages
-                                        </a>
-                                        <div class="dropdown-menu" aria-labelledby="pagesDropdownMenu">
-                                            <a class="dropdown-item" href="about-us.html">About Us</a>
-                                            <a class="dropdown-item" href="services.html">Services</a>
-                                            <a class="dropdown-item" href="services-detail.html">Services Detail</a>
-                                            <a class="dropdown-item" href="404.html">404 Page</a>
-                                        </div>
-                                    </li>
-                                    <li class="nav-item dropdown">
-                                        <a class="nav-link dropdown-toggle" href="index-particles.html#" id="galleryDropdownMenu" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                                            Gallery
-                                        </a>
-                                        <div class="dropdown-menu" aria-labelledby="galleryDropdownMenu">
-                                            <a class="dropdown-item" href="gallery-grid.html">Gallery Grid</a>
-                                            <a class="dropdown-item" href="gallery-masonry.html">Gallery Masonry</a>
-                                            <a class="dropdown-item" href="gallery-single.html">Gallery Single</a>
-                                        </div>
-                                    </li>
-                                    <li class="nav-item dropdown">
-                                        <a class="nav-link dropdown-toggle" href="index-particles.html#" id="blogDropdownMenu" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                                            Blog
-                                        </a>
-                                        <div class="dropdown-menu" aria-labelledby="blogDropdownMenu">
-                                            <a class="dropdown-item" href="blog-grid.html">Blog Grid</a>
-                                            <a class="dropdown-item" href="blog-sidebar.html">Blog Sidebar</a>
-                                            <a class="dropdown-item" href="blog-single.html">Blog Single</a>
-                                        </div>
+                                    <li class="nav-item">
+                                        <a class="nav-link" href="/">Principlă</a>
                                     </li>
                                     <li class="nav-item">
-                                        <a class="nav-link" href="contact-us.html">Contact</a>
+                                        <a class="nav-link" href="contact-us.html">Operatii oftalmologice</a>
                                     </li>
-                                    <li class="nav-item dropdown">
-                                        <a class="nav-link dropdown-toggle" href="index-particles.html#" id="languageDropdownMenu" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                                            <i class="fa fa-globe"></i>
-                                        </a>
-                                        <div class="dropdown-menu" aria-labelledby="languageDropdownMenu">
-                                            <a class="dropdown-item" href="index-particles.html#">English</a>
-                                            <a class="dropdown-item" href="index-particles.html#">Arabic</a>
-                                        </div>
+                                    <li class="nav-item">
+                                        <a class="nav-link" href="contact-us.html">Optica Medicala</a>
                                     </li>
                                     <li class="nav-item navbar-btn-resp d-flex align-items-center">
-                                        <a href="index-particles.html#" class="primary-button">Get A Quote</a>
-                                    </li>
-                                    <li class="nav-item d-flex align-items-center search-btn-resp">
-                                        <a class="nav-link" data-toggle="modal" data-target="#headerSearchBar" href="index-particles.html#"><i class="fa fa-search"></i></a>
+                                        <a href="index-particles.html#" class="outline-button">Consultare Online</a>
                                     </li>
                                 </ul>
                             </div>
