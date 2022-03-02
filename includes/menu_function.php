@@ -95,11 +95,22 @@ function menu($title){
                                     <li class="nav-item">
                                         <a class="nav-link" href="/">Principlă</a>
                                     </li>
-                                    <li class="nav-item">
-                                        <a class="nav-link" href="contact-us.html">Operatii oftalmologice</a>
+                                   
+                                    <li class="nav-item dropdown">
+                                        <a class="nav-link dropdown-toggle" href="contact-us.html#" id="operatii" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                            Operații oftalmologice
+                                        </a>
+                                        <div class="dropdown-menu" aria-labelledby="operatii">
+                                            <a class="dropdown-item" href="#">Operatii de cataracta</a>
+                                            <a class="dropdown-item" href="#">Keratoconus</a>
+                                            <a class="dropdown-item" href="#">Operatii oculo-plastice/ oculoplastie</a>
+                                        </div>
                                     </li>
                                     <li class="nav-item">
                                         <a class="nav-link" href="contact-us.html">Optica Medicala</a>
+                                    </li>
+                                    <li class="nav-item">
+                                        <a class="nav-link" href="/">Despre noi</a>
                                     </li>
                                     <li class="nav-item navbar-btn-resp d-flex align-items-center">
                                         <a href="index-particles.html#" class="outline-button">Consultare Online</a>
