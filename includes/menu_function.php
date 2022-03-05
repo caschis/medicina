@@ -97,17 +97,24 @@ function menu($title){
                                     </li>
                                    
                                     <li class="nav-item dropdown">
-                                        <a class="nav-link dropdown-toggle" href="contact-us.html#" id="operatii" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                        <a class="nav-link dropdown-toggle" href="#" id="operatii" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                                             Operații oftalmologice
                                         </a>
                                         <div class="dropdown-menu" aria-labelledby="operatii">
                                             <a class="dropdown-item" href="#">Operatii de cataracta</a>
                                             <a class="dropdown-item" href="#">Keratoconus</a>
-                                            <a class="dropdown-item" href="#">Operatii oculo-plastice/ oculoplastie</a>
+                                            <a class="dropdown-item" href="#">Operatii oculo-plastice</a>
                                         </div>
                                     </li>
-                                    <li class="nav-item">
-                                        <a class="nav-link" href="contact-us.html">Optica Medicala</a>
+                                    <li class="nav-item dropdown">
+                                        <a class="nav-link dropdown-toggle" href="#" id="servicii" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                            Operații oftalmologice
+                                        </a>
+                                        <div class="dropdown-menu" aria-labelledby="servicii">
+                                            <a class="dropdown-item" href="#">Consultatii oftalmologice</a>
+                                            <a class="dropdown-item" href="#">Tratarea miopiei</a>
+                                            <a class="dropdown-item" href="#">Tratamente Laser</a>
+                                        </div>
                                     </li>
                                     <li class="nav-item">
                                         <a class="nav-link" href="/">Despre noi</a>

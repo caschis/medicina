@@ -18,174 +18,89 @@ function services(){
                             </div>
                         </div>
                     </div>
+                    
                     <div class="row">
                         <div class="col-lg-4 col-md-6">
                             <div class="services-item">
                                 <div class="icon">
-                                    <span class="flaticon-excavator-2"></span>
+                                   <img src="../img/services/1.png" class="service_img_icon" alt="">
                                 </div>
                                 <div class="body">
-                                    <h6>Construction</h6>
+                                    <h6>Miopie</h6>
                                     <p>
-                                        It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.
+                                    Miopia este o afecţiune a vederii, care se caracterizează prin imposibilitatea de a distinge clar obiectele ce sînt situate la o distanță mare.
                                     </p>
-                                    <a href="index-particles.html#">Read More <i class="fa fa-arrow-right"></i></a>
+                                    <a href="index-particles.html#">Vezi Detalii<i class="fa fa-arrow-right"></i></a>
                                 </div>
                             </div>
                         </div>
                         <div class="col-lg-4 col-md-6">
                             <div class="services-item">
                                 <div class="icon">
-                                    <span class="flaticon-crane-truck"></span>
+                                <img src="../img/services/2.png" class="service_img_icon" alt="">
                                 </div>
                                 <div class="body">
-                                    <h6>Crane Lifting</h6>
+                                    <h6>Lentila de noapte</h6>
                                     <p>
-                                        It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.
+                                        <b>ProMed</b> vine cu ceva inovativ! Uită de ochelari sau lentile de contact! Poartă acestă lentilă în timpul nopții, și uită de ochelari pe tot parcursul zilei!
                                     </p>
-                                    <a href="index-particles.html#">Read More <i class="fa fa-arrow-right"></i></a>
+                                    <a href="index-particles.html#">Vezi Detalii<i class="fa fa-arrow-right"></i></a>
                                 </div>
                             </div>
                         </div>
                         <div class="col-lg-4 col-md-6">
                             <div class="services-item">
                                 <div class="icon">
-                                    <span class="flaticon-paver-1"></span>
+                                <img src="../img/services/3.png" class="service_img_icon" alt="">
                                 </div>
                                 <div class="body">
-                                    <h6>concrete casting</h6>
+                                    <h6>Cataracta</h6>
                                     <p>
-                                        It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.
+                                    Vederea afectată de cataractă poate fi tratată cu ajutorul unei noi perechi de ochelari cu o iluminare mult mai puternică.
                                     </p>
-                                    <a href="index-particles.html#">Read More <i class="fa fa-arrow-right"></i></a>
+                                    <a href="index-particles.html#">Vezi Detalii<i class="fa fa-arrow-right"></i></a>
                                 </div>
                             </div>
                         </div>
                         <div class="col-lg-4 col-md-6">
                             <div class="services-item">
                                 <div class="icon">
-                                    <span class="flaticon-excavator-3"></span>
+                                <img src="../img/services/4.png" class="service_img_icon" alt="">
                                 </div>
                                 <div class="body">
-                                    <h6>Rubble Excavation</h6>
+                                    <h6>Keratoconus</h6>
                                     <p>
-                                        It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.
+                                    Centrul nostru de oftalmologie a fost primul centru care a introdus în R. Moldova crosslinking-ul corneean – tratament chirurgical. 
                                     </p>
-                                    <a href="index-particles.html#">Read More <i class="fa fa-arrow-right"></i></a>
+                                    <a href="index-particles.html#">Vezi Detalii<i class="fa fa-arrow-right"></i></a>
                                 </div>
                             </div>
                         </div>
                         <div class="col-lg-4 col-md-6">
                             <div class="services-item">
                                 <div class="icon">
-                                    <span class="flaticon-excavator-1"></span>
+                                <img src="../img/services/5.png" class="service_img_icon" alt="">
                                 </div>
                                 <div class="body">
-                                    <h6>Concrete crushing</h6>
+                                    <h6>Operatii oculo-plastice</h6>
                                     <p>
-                                        It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.
+                                     Operațiile oculo-plastice reprezinta „piele in exces” la nivelul pleoapei superioare, determinat de inaintarea in varsta.
                                     </p>
-                                    <a href="index-particles.html#">Read More <i class="fa fa-arrow-right"></i></a>
+                                    <a href="index-particles.html#">Vezi Detalii<i class="fa fa-arrow-right"></i></a>
                                 </div>
                             </div>
                         </div>
                         <div class="col-lg-4 col-md-6">
                             <div class="services-item">
                                 <div class="icon">
-                                    <span class="flaticon-paver"></span>
+                                <img src="../img/services/6.png" class="service_img_icon" alt="">
                                 </div>
                                 <div class="body">
-                                    <h6>Paving slabs</h6>
+                                    <h6>Tratare Laser</h6>
                                     <p>
-                                        It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.
+                                    Folosirea echipamentului modern, inclusiv Laserului pentru tratarea unor afecțiuni oculare, fără necesitate chirurgicală
                                     </p>
-                                    <a href="index-particles.html#">Read More <i class="fa fa-arrow-right"></i></a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="row">
-                        <div class="col-lg-4 col-md-6">
-                            <div class="services-item">
-                                <div class="icon">
-                                    <span class="flaticon-excavator-2"></span>
-                                </div>
-                                <div class="body">
-                                    <h6>Construction</h6>
-                                    <p>
-                                        It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.
-                                    </p>
-                                    <a href="index-particles.html#">Read More <i class="fa fa-arrow-right"></i></a>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-lg-4 col-md-6">
-                            <div class="services-item">
-                                <div class="icon">
-                                    <span class="flaticon-crane-truck"></span>
-                                </div>
-                                <div class="body">
-                                    <h6>Crane Lifting</h6>
-                                    <p>
-                                        It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.
-                                    </p>
-                                    <a href="index-particles.html#">Read More <i class="fa fa-arrow-right"></i></a>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-lg-4 col-md-6">
-                            <div class="services-item">
-                                <div class="icon">
-                                    <span class="flaticon-paver-1"></span>
-                                </div>
-                                <div class="body">
-                                    <h6>concrete casting</h6>
-                                    <p>
-                                        It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.
-                                    </p>
-                                    <a href="index-particles.html#">Read More <i class="fa fa-arrow-right"></i></a>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-lg-4 col-md-6">
-                            <div class="services-item">
-                                <div class="icon">
-                                    <span class="flaticon-excavator-3"></span>
-                                </div>
-                                <div class="body">
-                                    <h6>Rubble Excavation</h6>
-                                    <p>
-                                        It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.
-                                    </p>
-                                    <a href="index-particles.html#">Read More <i class="fa fa-arrow-right"></i></a>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-lg-4 col-md-6">
-                            <div class="services-item">
-                                <div class="icon">
-                                    <span class="flaticon-excavator-1"></span>
-                                </div>
-                                <div class="body">
-                                    <h6>Concrete crushing</h6>
-                                    <p>
-                                        It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.
-                                    </p>
-                                    <a href="index-particles.html#">Read More <i class="fa fa-arrow-right"></i></a>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-lg-4 col-md-6">
-                            <div class="services-item">
-                                <div class="icon">
-                                    <span class="flaticon-paver"></span>
-                                </div>
-                                <div class="body">
-                                    <h6>Paving slabs</h6>
-                                    <p>
-                                        It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.
-                                    </p>
-                                    <a href="index-particles.html#">Read More <i class="fa fa-arrow-right"></i></a>
+                                    <a href="index-particles.html#">Vezi Detalii<i class="fa fa-arrow-right"></i></a>
                                 </div>
                             </div>
                         </div>

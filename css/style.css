@@ -57,7 +57,7 @@
 body, html {
   font-size: 16px;
   font-family: 'Varela Round', sans-serif;
-  color: #6e6c7a;
+  color: #222;
   margin: 0;
   padding: 0;
 }
@@ -259,7 +259,7 @@ p {
 }
 
 .bg-dark-blue {
-  background: #1b192a;
+  background: #0e45742e;
 }
 
 .bg-light-grey {
@@ -1339,7 +1339,7 @@ p {
   -webkit-box-pack: center;
       -ms-flex-pack: center;
           justify-content: center;
-  background: #1b192a;
+  background: #0e4574;
 }
 
 #preloader-wrap .lds-ring {
@@ -1403,7 +1403,7 @@ p {
   padding: 20px 0;
   -webkit-transition: all 0.5s ease;
   transition: all 0.5s ease;
-  background: #1b192a;
+  background: #0e4574;
 }
 
 .header #navbar-top .nav-social-links {
@@ -1470,12 +1470,12 @@ p {
   color: #000000;
   font-size: 14px;
   font-weight: 500;
-  padding: 35px 20px;
+  padding: 30px 10px;
   text-transform: uppercase;
   letter-spacing: 0.6px;
   display: block;
   position: relative;
-  line-height: 28px;
+  line-height: 28px;;
 }
 
 .header .nav-item .nav-link:after {
@@ -2116,7 +2116,10 @@ p {
   color: #000000;
   position: relative;
   font-weight: 500;
-  font-size: 14px;
+  font-size: 20px;
+  border: 1px dashed #0e4574;
+  padding: 5px 20px;
+  border-radius: 5px;
 }
 
 .services-item .body a i {
@@ -2196,10 +2199,8 @@ p {
 }
 
 .skills-inner .inner-text h4 span {
-  color: #4540e0;
-  font-style: italic;
+  color: #0e4574;
   font-weight: 900;
-  text-decoration: underline;
 }
 
 .skills-inner .inner-text p {
@@ -2226,7 +2227,7 @@ p {
 }
 
 .skills-inner ul li:hover i {
-  background: #1b192a;
+  background:#063258;
 }
 
 .skills-inner ul li i {
@@ -2569,21 +2570,19 @@ p {
 /* 15.Work Process & Counters                             
 /* ---------------------------------------------------------------- */
 .work-process-inner .work-process-text h4 {
-  color: #fff;
+  color: #0e4574;
   margin-bottom: 15px;
 }
 
 .work-process-inner .work-process-text h4 span {
   color: #4540e0;
-  font-style: italic;
-  font-weight: 900;
-  text-decoration: underline;
+
 }
 
 .work-process-inner .work-process-text p {
   opacity: 0.75;
   margin-bottom: 30px;
-  color: #fff;
+  color: #0e4574;
 }
 
 .work-process-inner ul li {
@@ -2625,13 +2624,13 @@ p {
 }
 
 .work-process-inner ul li h6 {
-  color: #fff;
+  color: #222;
   margin-bottom: 10px;
 }
 
 .work-process-inner ul li p {
   opacity: 0.75;
-  color: #fff;
+  color: #0e4574;
 }
 
 .counters {
@@ -2660,7 +2659,6 @@ p {
   -webkit-transition: all 0.5s ease;
   transition: all 0.5s ease;
   position: absolute;
-  background: #4540e0;
 }
 
 .counters .counter-item .counter-text {
@@ -3071,7 +3069,7 @@ p {
 /* 21.Footer                         
 /* ---------------------------------------------------------------- */
 #footer {
-  background: #1b192a;
+  background: #131414;
 }
 
 #footer #footer-top {
@@ -3088,7 +3086,7 @@ p {
   content: "";
   z-index: -1;
   position: absolute;
-  background: url(../img/bg/footer-bg-img.png) no-repeat center center;
+  background: url(../img/bg/footer_medici.jpg) no-repeat center center;
   background-size: cover;
   opacity: 0.03;
 }
@@ -5494,3 +5492,8 @@ body.rtl-mode .blog-text blockquote q:after {
   }
 }
 /*# sourceMappingURL=style.css.map */
+
+
+.service_img_icon{
+  border-radius: 50%;
+}

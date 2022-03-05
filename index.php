@@ -23,8 +23,8 @@
                             ..Vezi viața cu ochi buni!
                         </p>
                         <div class="hero-btn">
-                            <a href="index-slider.html#" class="primary-button">Get Started<i class="fa fa-arrow-right"></i></a>
-                            <a href="index-slider.html#" class="outline-button">Read More<i class="fa fa-arrow-right"></i></a>
+                            <a href="index-slider.html#" class="primary-button">Optica Medicala<i class="fa fa-arrow-right"></i></a>
+                            <a href="index-slider.html#" class="outline-button">Corecție cu Laser<i class="fa fa-arrow-right"></i></a>
                         </div>
                     </div>
                 </div>
@@ -38,6 +38,11 @@
                         <h1 class="hero-title">
                             Sănătatea ochilor dumneavoastră este prioritatea noastra
                         </h1>
+                        <p class="hero-subtitle">
+                            *Tratarea Miopiei cu lentila Orto-k <br>
+                            *Tratarea cu Laser a afecțiunilor oculare <br>
+                            *Operația Cataractă 
+                        </p>
                         <div class="hero-btn">
                             <a href="index-slider.html#" class="primary-button">Get Started<i class="fa fa-arrow-right" style="z-index: 111!important;"></i></a>
                             <a href="index-slider.html#" class="outline-button">Read More<i class="fa fa-arrow-right"></i></a>
@@ -47,82 +52,10 @@
             </div>
         </div>
 
-       
     </div>
 </section>       
 <!--// Hero Slider End //-->
 
-
-
-<!-- modern slider end -->
-
-
-        
-
-            <!--// About Section Start //-->
-            <section class="section" id="about">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-lg-6">
-                            <div class="about-img-wrap">
-                                <img src="img/poza-.jpg" alt="About image" class="img-fluid" />
-                                <div class="about-video">
-                                    <a class="about-video-btn popup-video-btn" href="https://www.youtube.com/watch?v=YqQx75OPRa0"><i class="fa fa-play"></i></a>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-lg-6 about-inner">
-                            <div class="about-text">
-                                <h6>Cunoaște-ne!</h6>
-                                <h4>15 ani de experiență, echipament performant, investigații cu precizie.</h4>
-                                <p>
-                                Așteptăm micii pacienți la specialiști pentru ai pregăti de școală sau  gradiniță!
-                                </p>
-                            </div>
-                            <ul>
-                                <li>
-                                    <i class="fas fa-industry"></i>
-                                    <div class="text">
-                                        <h6>Neuropediatru</h6>
-                                        <!-- <p>
-                                            For years, we have grown this company's businesses, not as a legacy from father to son, but by fully caring.
-                                        </p> -->
-                                    </div>
-                                </li>
-                                <li>
-                                    <i class="fas fa-business-time"></i>
-                                    <div class="text">
-                                        <h6>Oftalmolog</h6>
-                                        <!-- <p>
-                                            To provide a safe and clean business to our customers and to keep the quality at the highest level
-                                        </p> -->
-                                    </div>
-                                </li>
-                                <li>
-                                    <i class="fas fa-business-time"></i>
-                                    <div class="text">
-                                        <h6>ORL</h6>
-                                        <!-- <p>
-                                            To provide a safe and clean business to our customers and to keep the quality at the highest level
-                                        </p> -->
-                                    </div>
-                                </li>
-                                <li>
-                                    <i class="fas fa-business-time"></i>
-                                    <div class="text">
-                                        <h6>Ortoped/chirurg</h6>
-                                        <!-- <p>
-                                            To provide a safe and clean business to our customers and to keep the quality at the highest level
-                                        </p> -->
-                                    </div>
-                                </li>
-                            </ul>
-                            <a href="index-particles.html#" class="primary-button">Programează-te<i class="fa fa-arrow-right"></i></a>
-                        </div>
-                    </div>
-                </div>
-            </section>
-            <!--// About Section End //-->
 
             <!--// Services Section Start //-->
             <?php
@@ -135,254 +68,43 @@ services();
                 <div class="container">
                     <div class="row">
                         <div class="col-lg-6 skills-img">
-                            <img src="img/bg/skills-image.jpg" alt="Skills image" class="img-fluid" />
+                            <img src="img/main/happy_girl.png" alt="Skills image" class="img-fluid" />
                         </div>
                         <div class="col-lg-6 skills-inner">
                             <div class="inner-text">
-                                <h6>See our experiences</h6>
-                                <h4>We know how to please and we are <span>assertive</span></h4>
+                                <h4>De ce să alegi <span>Pro-Med.md</span></h4>
                                 <p>
-                                    Many of our customers are curious about our job security. And we enjoy hosting them and transferring our experiences So your request and satisfaction is very important to us.
+                                    Suntem responsabili: ne asumăm corectitudinea prescripției pentru ochelari sau lentile de contact. 
                                 </p>
                             </div>
                             <ul>
                                 <li>
-                                    <i class="fas fa-shield-alt"></i>
+                                    <i class="fas fa-eye"></i></i>
                                     <div class="text">
-                                        <h6>Certificate and guarantee</h6>
+                                        <h6>CEL MAI CUPRINZĂTOR ȘI DETALIAT CONSULT AL OCHILOR</h6>
                                         <p>
-                                            It is a long established fact that a reader will be distracted by the readable content
+                                            Minim 25 de minute, 15 etape ale consultului; Evaluarea vederii binoculare (3D); Măsurarea fiecărui parametru individual al ochilor cu iProfiler ZEISS
                                         </p>
                                     </div>
                                 </li>
                                 <li>
-                                    <i class="far fa-building"></i>
+                                    <i class="fas fa-eye"></i></i>
                                     <div class="text">
-                                        <h6>Full time working status</h6>
+                                        <h6>EMPATIE, SERIOZITATE, PROFESIONALISM, SINCERITATE</h6>
                                         <p>
-                                            It is a long established fact that a reader will be distracted by the readable content
+                                            Valorile fiecărui membru al colectivului Pro-Med
                                         </p>
                                     </div>
                                 </li>
                             </ul>
-                            <a href="index-particles.html#" class="primary-button">Read More<i class="fa fa-arrow-right"></i></a>
+                            <a href="#" class="outline-button">Consultație online<i class="fa fa-arrow-right"></i></a>
                         </div>
                     </div>
                 </div>
             </section>
             <!--// Our Skills Section End //-->
 
-            <!--// Gallery Grid Section Start //-->
-            <section class="section pb-minus-70" id="galleryWrapper">
-                <div class="container">
-                    <div class="row justify-content-center">
-                        <div class="col-lg-6">
-                            <div class="section-heading">
-                                <h2 class="section-title">Our<span>Works</span></h2>
-                                <p class="section-text">
-                                    It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.
-                                </p>
-                            </div>
-                            <div class="gallery-filter text-center">
-                                <a href="index-particles.html#" data-gallery-filter="*" class="current">All</a>
-                                <a href="index-particles.html#" data-gallery-filter=".building">Building</a>
-                                <a href="index-particles.html#" data-gallery-filter=".construction">Construction</a>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="row" id="galleryGrid">
-                        <div class="col-md-6 col-lg-4 gallery-item building">
-                            <div class="gallery-item-inner">
-                                <div class="gallery-item-img">
-                                    <a data-fancybox="grid-gallery" href="img/portfolio/portfolio-img-1.jpg">
-                                        <img src="img/portfolio/portfolio-img-1.jpg" alt="Portfolio image" class="img-fluid" />
-                                    </a>
-                                </div>
-                                <div class="gallery-details">
-                                    <div class="detail-text">
-                                        <h5><a href="index-particles.html#">Modern building</a></h5>
-                                        <span>Building</span>
-                                    </div>
-                                    <a href="index-particles.html#" class="detail-link"></a>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-md-6 col-lg-4 gallery-item construction">
-                            <div class="gallery-item-inner">
-                                <div class="gallery-item-img">
-                                    <a data-fancybox="grid-gallery" href="img/portfolio/portfolio-img-2.jpg">
-                                        <img src="img/portfolio/portfolio-img-2.jpg" alt="Portfolio image" class="img-fluid" />
-                                    </a>
-                                </div>
-                                <div class="gallery-details">
-                                    <div class="detail-text">
-                                        <h5><a href="index-particles.html#">Facility construction</a></h5>
-                                        <span>Construction</span>
-                                    </div>
-                                    <a href="index-particles.html#" class="detail-link"></a>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-md-6 col-lg-4 gallery-item construction">
-                            <div class="gallery-item-inner">
-                                <div class="gallery-item-img">
-                                    <a data-fancybox="grid-gallery" href="img/portfolio/portfolio-img-3.jpg">
-                                        <img src="img/portfolio/portfolio-img-3.jpg" alt="Portfolio image" class="img-fluid" />
-                                    </a>
-                                </div>
-                                <div class="gallery-details">
-                                    <div class="detail-text">
-                                        <h5><a href="index-particles.html#">Crane Lifting</a></h5>
-                                        <span>Construction</span>
-                                    </div>
-                                    <a href="index-particles.html#" class="detail-link"></a>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-md-6 col-lg-4 gallery-item building">
-                            <div class="gallery-item-inner">
-                                <div class="gallery-item-img">
-                                    <a data-fancybox="grid-gallery" href="img/portfolio/portfolio-img-4.jpg">
-                                        <img src="img/portfolio/portfolio-img-4.jpg" alt="Portfolio image" class="img-fluid" />
-                                    </a>
-                                </div>
-                                <div class="gallery-details">
-                                    <div class="detail-text">
-                                        <h5><a href="index-particles.html#">Building Basics</a></h5>
-                                        <span>Building</span>
-                                    </div>
-                                    <a href="index-particles.html#" class="detail-link"></a>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-md-6 col-lg-4 gallery-item construction">
-                            <div class="gallery-item-inner">
-                                <div class="gallery-item-img">
-                                    <a data-fancybox="grid-gallery" href="img/portfolio/portfolio-img-5.jpg">
-                                        <img src="img/portfolio/portfolio-img-5.jpg" alt="Portfolio image" class="img-fluid" />
-                                    </a>
-                                </div>
-                                <div class="gallery-details">
-                                    <div class="detail-text">
-                                        <h5><a href="index-particles.html#">Interior Design</a></h5>
-                                        <span>Construction</span>
-                                    </div>
-                                    <a href="index-particles.html#" class="detail-link"></a>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-md-6 col-lg-4 gallery-item building">
-                            <div class="gallery-item-inner">
-                                <div class="gallery-item-img">
-                                    <a data-fancybox="grid-gallery" href="img/portfolio/portfolio-img-6.jpg">
-                                        <img src="img/portfolio/portfolio-img-6.jpg" alt="Portfolio image" class="img-fluid" />
-                                    </a>
-                                </div>
-                                <div class="gallery-details">
-                                    <div class="detail-text">
-                                        <h5><a href="index-particles.html#">Interior Design</a></h5>
-                                        <span>Building</span>
-                                    </div>
-                                    <a href="index-particles.html#" class="detail-link"></a>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-md-6 col-lg-4 gallery-item construction">
-                            <div class="gallery-item-inner">
-                                <div class="gallery-item-img">
-                                    <a data-fancybox="grid-gallery" href="img/portfolio/portfolio-img-7.jpg">
-                                        <img src="img/portfolio/portfolio-img-7.jpg" alt="Portfolio image" class="img-fluid" />
-                                    </a>
-                                </div>
-                                <div class="gallery-details">
-                                    <div class="detail-text">
-                                        <h5><a href="index-particles.html#">Exterior Design</a></h5>
-                                        <span>Construction</span>
-                                    </div>
-                                    <a href="index-particles.html#" class="detail-link"></a>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-md-6 col-lg-4 gallery-item building">
-                            <div class="gallery-item-inner">
-                                <div class="gallery-item-img">
-                                    <a data-fancybox="grid-gallery" href="img/portfolio/portfolio-img-8.jpg">
-                                        <img src="img/portfolio/portfolio-img-8.jpg" alt="Portfolio image" class="img-fluid" />
-                                    </a>
-                                </div>
-                                <div class="gallery-details">
-                                    <div class="detail-text">
-                                        <h5><a href="index-particles.html#">Architecture Design</a></h5>
-                                        <span>Building</span>
-                                    </div>
-                                    <a href="index-particles.html#" class="detail-link"></a>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-md-6 col-lg-4 gallery-item construction">
-                            <div class="gallery-item-inner">
-                                <div class="gallery-item-img">
-                                    <a data-fancybox="grid-gallery" href="img/portfolio/portfolio-img-9.jpg">
-                                        <img src="img/portfolio/portfolio-img-9.jpg" alt="Portfolio image" class="img-fluid" />
-                                    </a>
-                                </div>
-                                <div class="gallery-details">
-                                    <div class="detail-text">
-                                        <h5><a href="index-particles.html#">Land excavations</a></h5>
-                                        <span>Construction</span>
-                                    </div>
-                                    <a href="index-particles.html#" class="detail-link"></a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </section>
-            <!--// Gallery Grid Section End //-->
-
-            <!--// Why Choose Us Section Start //-->
-            <section class="section" id="whyChooseUs">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-lg-6 why-choose-us-img">
-                            <img src="img/bg/why-choose-us-img.jpg" alt="Why Choose image" class="img-fluid" />
-                        </div>
-                        <div class="col-lg-6 why-choose-us-col">
-                            <div class="why-choose-us-inner">
-                                <div class="inner-text">
-                                    <h6>Why Choose Us</h6>
-                                    <h4><b class="counter">1850</b> + satisfied with our customer service</h4>
-                                    <p>
-                                        We have a very good team working with years of experience. There may be a special offer for you in some of our crane services and services.
-                                    </p>
-                                </div>
-                                <ul>
-                                    <li>
-                                        <i class="fas fa-life-ring"></i>
-                                        <div class="text">
-                                            <h6>Expert customer support</h6>
-                                            <p>
-                                                It is a long established fact that a reader will be distracted by the readable content
-                                            </p>
-                                        </div>
-                                    </li>
-                                    <li>
-                                        <i class="fas fa-wrench"></i>
-                                        <div class="text">
-                                            <h6>Repair and maintenance</h6>
-                                            <p>
-                                                It is a long established fact that a reader will be distracted by the readable content
-                                            </p>
-                                        </div>
-                                    </li>
-                                </ul>
-                                <a href="index-particles.html#" class="primary-button">Read More<i class="fa fa-arrow-right"></i></a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </section>
-            <!--// Why Choose Us Section End //-->
+          
 
             <!--// Work Process Start //-->
             <section class="section bg-dark-blue pb-minus-70" id="workProcess">
@@ -391,10 +113,9 @@ services();
                         <div class="col-lg-6">
                             <div class="work-process-inner">
                                 <div class="work-process-text">
-                                    <h4>We attach great importance to safety in <span>our work.</span></h4>
+                                    <h4>Spune <span>STOP</span> la miopie!</h4>
                                     <p>
-                                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Facilis voluptatem qui non enim at inventore. Lorem ipsum dolor sit amet consectetur adipisicing elit. Facilis voluptatem qui non enim at
-                                        inventore.
+                                       <b>Ortokeratologia constă în adaptarea unei lentile de contact specializate care exercită un efect de modelare asupra corneei noaptea</b>, în timp ce dormim . În acest fel, atunci când pacienții îl scot dimineața, pot vedea bine pe tot parcursul zilei fără a avea nevoie de ochelari sau lentile de contact.
                                     </p>
                                 </div>
                                 <ul>
@@ -423,42 +144,22 @@ services();
                             <div class="row">
                                 <div class="col-md-6 col-sm-6 col-xs-6">
                                     <div class="counter-item">
-                                        <img src="img/counter/counter-item-img-1.jpg" alt="Counter image" class="img-fluid" />
-                                        <div class="counter-text">
-                                            <span class="flaticon-bulldozer-2"></span>
-                                            <h6>Excavation</h6>
-                                            <h2 class="counter">2500</h2>
-                                        </div>
+                                        <img src="img/steps/1.png" alt="Counter image" class="img-fluid" />
                                     </div>
                                 </div>
                                 <div class="col-md-6 col-sm-6 col-xs-6">
                                     <div class="counter-item">
-                                        <img src="img/counter/counter-item-img-2.jpg" alt="Counter image" class="img-fluid" />
-                                        <div class="counter-text">
-                                            <span class="flaticon-hammer-truck"></span>
-                                            <h6>Construction</h6>
-                                            <h2 class="counter">1850</h2>
-                                        </div>
+                                        <img src="img/steps/2.png" alt="Counter image" class="img-fluid" />
                                     </div>
                                 </div>
                                 <div class="col-md-6 col-sm-6 col-xs-6">
                                     <div class="counter-item">
-                                        <img src="img/counter/counter-item-img-3.jpg" alt="Counter image" class="img-fluid" />
-                                        <div class="counter-text">
-                                            <span class="flaticon-excavator-2"></span>
-                                            <h6>Earthwork</h6>
-                                            <h2 class="counter">1145</h2>
-                                        </div>
+                                        <img src="img/steps/3.png" alt="Counter image" class="img-fluid" />
                                     </div>
                                 </div>
                                 <div class="col-md-6 col-sm-6 col-xs-6">
                                     <div class="counter-item">
-                                        <img src="img/counter/counter-item-img-4.jpg" alt="Counter image" class="img-fluid" />
-                                        <div class="counter-text">
-                                            <span class="flaticon-mixer-truck"></span>
-                                            <h6>Char concrete</h6>
-                                            <h2 class="counter">5000</h2>
-                                        </div>
+                                        <img src="img/steps/4.png" alt="Counter image" class="img-fluid" />
                                     </div>
                                 </div>
                             </div>

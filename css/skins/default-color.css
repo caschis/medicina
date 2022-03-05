@@ -58,7 +58,7 @@
 }
 
 .scroll-top-btn {
-  background: #9ec8ec;
+  background: #0e4574;
 }
 
 .custom-modal .modal-content .modal-body .popup-form-group .searchbar-btn {
@@ -122,16 +122,16 @@
 }
 
 .header .nav-item .nav-link:not(.active):after {
-  background: #9ec8ec;
+  background: #0e4574;
 }
 
 .header .nav-item:hover > a {
-  color: #9ec8ec;
+  color: #0e4574;
 }
 
 .header .nav-item.dropdown .dropdown-menu .dropdown-item:hover {
-  background: #9ec8ec;
-  border-bottom-color: #9ec8ec;
+  background: #0e4574;
+  border-bottom-color: #0e4574;
 }
 
 .header .navbar-toggler[aria-expanded="true"] .togler-icon-inner span {
@@ -171,11 +171,11 @@
 }
 
 .services-item .icon span:before {
-  color: #9ec8ec;
+  color: #0e4574;
 }
 
 .services-item:hover {
-  background: #9ec8ec;
+  background: #0e4574;
 }
 
 .skills-inner .inner-text h6 {
@@ -183,11 +183,11 @@
 }
 
 .skills-inner .inner-text h4 span {
-  color: #9ec8ec;
+  color: #0e4574;
 }
 
 .skills-inner ul li i {
-  background: #9ec8ec;
+  background: #0e4574;
 }
 
 .gallery-filter a.current {
@@ -207,11 +207,11 @@
 }
 
 .why-choose-us-col .why-choose-us-inner .inner-text h6 {
-  color: #9ec8ec;
+  color: #0d4473;
 }
 
 .why-choose-us-col .why-choose-us-inner .inner-text h4 b {
-  color: #9ec8ec;
+  color: #0e4574;
 }
 
 .why-choose-us-col .why-choose-us-inner .inner-text h4 span {
@@ -219,19 +219,19 @@
 }
 
 .why-choose-us-col .why-choose-us-inner ul li i {
-  background: #9ec8ec;
+  background: #0e4574;
 }
 
 .work-process-inner .work-process-text h4 span {
-  color: #9ec8ec;
+  color: #f0433c;
 }
 
 .work-process-inner ul li span {
-  background: #9ec8ec;
+  background: #0e4574;
 }
 
 .counters .counter-item:after {
-  background: #9ec8ec;
+  
 }
 
 .team-card .social ul li a {
@@ -259,7 +259,7 @@
 }
 
 .blog-item .body .meta a:hover {
-  color: #9ec8ec;
+  color: #0d4473;
 }
 
 .blog-item .body .meta a i {

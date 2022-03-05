@@ -248,7 +248,7 @@ function anaula_owlCarousel(){
             dots:true,
             rtl: true,
             autoplay:true,
-            autoplayTimeout:3000,
+            autoplayTimeout:5000,
             autoplayHoverPause:true,
             smartSpeed:1000,
             responsive:{
